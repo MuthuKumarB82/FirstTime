@@ -7,6 +7,7 @@ public class Designer {
     private String software;
     private boolean isMale;
     private String company;
+    private int id;
     
     public void setName(String name) {
     	this.name = name;
